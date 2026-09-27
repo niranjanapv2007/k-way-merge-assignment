@@ -69,11 +69,14 @@ Comparisons: 21
 Merge L1 and L2
 L1 = 10 30 50 70
 L2 = 20 40 60 80
+
 Result
 10 20 30 40 50 60 70 80
+
 Merge the result with L3
 10 20 30 40 50 60 70 80
 15 35 55 75
+
 Output:
 10 15 20 30 35 40 50 55 60 70 75 80
 
